@@ -4,12 +4,6 @@
 
 <p>📫 How to reach me: <a href="mailto:oehab559@gmail.com">hasnaawaellmosad@gmail.com</a></p>
 
-<p>🛠  Skills
-Python, SQL, Shell Programming, SSIS, Power BI , Excel
-Hadoop, Spark, Kafka
-Terraform, Docker, Git
-AWS
-</p>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/hasnaa-wael-b1a718216/">
