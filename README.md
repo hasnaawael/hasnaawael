@@ -6,5 +6,6 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/hasnaa-wael-b1a718216/">
-  <img src="https://www.flaticon.com/free-icon/linkedin_2504923?term=linked+in&page=1&position=11&origin=search&related_id=2504923" width="40" height="40">
+  <img src="![linkedin](https://github.com/hasnaawael/hasnaawael/assets/102909885/42ee4a0a-ded2-478c-82c9-1d6748cc6867)
+" width="40" height="40">
 </a>
